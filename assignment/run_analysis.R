@@ -1,5 +1,5 @@
 #1.Merges the training and the test sets to create one data set.
-#setwd("C:/154339/KB/Courses/DSSJHU/GettingandCleaningData/assignment")
+#setwd("C:/GettingandCleaningData/assignment")
 #Read training dataset
 traindata <- read.table("./data/train/X_train.txt")  
 trainlabel <- read.table("./data/train/y_train.txt")  
